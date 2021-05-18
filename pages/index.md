@@ -5,3 +5,5 @@
 该工程有助于构建人类共同体的开源精神与白嫖艺术相对技术的结合，Docjs的存在使Github上又多了一个垃圾储存库
 
 ~~白嫖就是我们的初心~~
+
+![gugugu](https://www.rrll.cc/tuceng/ecy.php)
