@@ -1,7 +1,7 @@
-# Nextra
+# 这是啥
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+**soutDocjs** 是一个为了装B而诞生的项目
 
-It supports Markdown with React components ([MDX](/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
+该工程有助于构建人类共同体的开源精神与白嫖艺术相对技术的结合，Docjs的存在使Github上又多了一个垃圾储存库
 
-![](/demo.png)
+～～白嫖就是我们的初心～～
