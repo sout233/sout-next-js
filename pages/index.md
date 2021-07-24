@@ -6,4 +6,16 @@
 
 ~~白嫖就是我们的初心~~
 
+-------------------
+
+＃＃＃＃ 然后我们又把这个变成了导航页(还有点用处)(貌似)
+
+[bu的网站(正搭建)](syybu.mikamika.ga)
+
+[sout的blog(好久没更了)](blog.mikamika.top)
+
+him的xta官网(忘记了)
+
+小鱼儿的gmod服务器官网(也忘记了)
+
 ![gugugu](https://www.rrll.cc/tuceng/ecy.php)
