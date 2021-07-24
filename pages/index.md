@@ -12,9 +12,9 @@
 
 **(还有点用处)**(貌似)
 
-[bu的网站(正搭建)](syybu.mikamika.ga)
+[bu的网站(正搭建)](https://syybu.mikamika.ga)
 
-[sout的blog(好久没更了)](blog.mikamika.top)
+[sout的blog(好久没更了)](https://blog.mikamika.top/)
 
 him的xta官网(忘记了)
 
