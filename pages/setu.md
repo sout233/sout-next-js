@@ -2,9 +2,9 @@
 
 所以图片均来自于网络聚合结果
 
-[setu1]()
+![setu1](https://www.rrll.cc/tuceng/ecy.php)
 
-[setu2]()
+[setu2](https://www.rrll.cc/tuceng/ecy.php)
 
-[setu3]()
+[setu3](https://www.rrll.cc/tuceng/ecy.php)
 
