@@ -27,3 +27,5 @@ him的xta官网(忘记了)
 ~~(运气好的话你还能刷出涩图)~~
 
 ![gugugu](https://api.loliurl.club/api/setu/)
+
+<img src="https://cdn.seovx.com/d/?mom=302" style="max-width: 100%; max-height: 100%;">
