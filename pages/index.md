@@ -26,4 +26,4 @@ him的xta官网(忘记了)
 
 ~~(运气好的话你还能刷出涩图)~~
 
-![gugugu](https://www.rrll.cc/tuceng/ecy.php)
+![gugugu](https://api.loliurl.club/api/setu/)
