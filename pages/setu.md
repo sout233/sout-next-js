@@ -5,7 +5,7 @@
 btstu API:
 ![setu6](http://api.btstu.cn/sjbz/?lx=dongman)
 
-iw233 API（竖屏）:
+iw233 API（随机）:
 ![setu11](http://api.iw233.cn/api.php?sort=random)
 
 iw233 API（横屏）:
@@ -22,6 +22,3 @@ iw233 API（兽耳）:
 
 东方 API:
 ![setu9](https://img.paulzzh.tech/touhou/random)
-
-toubiec API:
-![setu10](https://acg.toubiec.cn/random.php)
