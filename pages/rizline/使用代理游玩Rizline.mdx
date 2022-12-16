@@ -1,0 +1,28 @@
+# Rizline锁区？*去他妈的*
+
+## 预备步骤
+
+**（Android和iOS都要做这一步）**
+
+打开WiFi设置，点开WiFi详情，开启代理（手动），地址`38.60.48.135`，端口`8848`，保存退出即可。
+
+访问http://mitm.it
+，如果可以正常打开（有几个下载按钮的页面），则配置正常。
+
+如果显示`"If you can see this, traffic is not passing through mitmproxy."`，那么请检查代理是否设置正确。
+
+## Android
+
+### 方案一：适用于新机型（System不可写）
+
+**请保证已经做完**[预备步骤](#预备步骤)
+
+需要Magisk，且已经ROOT
+~~（废话）~~
+
+访问http://mitm.it/cert/magisk
+，获取Magisk模块，刷入，然后重启。
+
+你应该能在`设置-安全-更多安全设置-加密与凭据-信任的凭据（CA）-系统`中看到`mitmproxy`证书。
+
+打开Rizline，以游客模式登入，应当可以正确进入游戏。
