@@ -20,9 +20,37 @@
 需要Magisk，且已经ROOT
 ~~（废话）~~
 
-访问http://mitm.it/cert/magisk
+手机访问http://mitm.it/cert/magisk
 ，获取Magisk模块，刷入，然后重启。
 
 你应该能在`设置-安全-更多安全设置-加密与凭据-信任的凭据（CA）-系统`中看到`mitmproxy`证书。
 
 打开Rizline，以游客模式登入，应当可以正确进入游戏。
+
+### 方案二：手动安装
+
+确保System可写，否则请使用方案一。
+
+手机访问http://mitm.it
+，下载Android版本证书。
+
+将证书传到电脑上，运行这行命令：
+```
+openssl x509 -inform PEM -subject_hash_old -in mitmproxy-ca-cert.cer
+```
+（没有openssl可以装个git，然后打开git bash就可以了）
+
+接着你会看到一堆输出，假设第一行输出的是`s114b514`，那么你就把证书的文件名改成`s114b514.0`，然后传回手机。
+
+然后把改完名字的证书扔到`/system/etc/security/cacerts`里面，重启即可。
+
+启动游戏，应该能正常进入了。
+
+## iOS
+
+用iPhone或iPad访问http://mitm.it
+，下载iOS版本证书并安装（建议在Safari中进行）
+
+转到`设置-通用-关于本机-证书信任设置`，信任证书即可。 
+
+启动游戏试试。
